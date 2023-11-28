@@ -10,8 +10,6 @@ _*/
 # packman .user config
 *.packman.xml.user
 
-
-
 /.vs
 
 /app
